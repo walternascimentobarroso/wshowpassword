@@ -1,0 +1,13 @@
+{
+  "title": "Exibir Senha",
+  "name": "showpassword",
+  "version": "1.0.0",
+  "description": "Mostra as senhas dos formularios em exibição",
+  "main": "index.js",
+  "author": "Walter Nascimento Barroso",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
